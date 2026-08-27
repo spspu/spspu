@@ -20,7 +20,7 @@ To seek and maintain full-time position that offers professional challenges util
 </p>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpratapsingh2025&layout=compact&langs_count=8&card_width=320" alt="surajpratapsingh2025"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spspu&layout=compact&langs_count=8&card_width=320" alt="spspu"/>
 
 
 
@@ -44,6 +44,6 @@ To seek and maintain full-time position that offers professional challenges util
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5440/5440062.png" alt="photoshop" width="40" height="40"/> </a> </p>
 
 
-<img align="left" width= "400" src="https://github-readme-streak-stats.herokuapp.com/?user=surajpratapsingh2025&" alt="surajpratapsingh2025" />
+<img align="left" width= "400" src="https://github-readme-streak-stats.herokuapp.com/?user=spspu&" alt="spspu" />
 
-<img align="right" width= "375" src="https://github-readme-stats.vercel.app/api?username=surajpratapsingh2025&show_icons=true&locale=en&theme=dark" alt="surajpratapsingh2025" />
+<img align="right" width= "375" src="https://github-readme-stats.vercel.app/api?username=spspu&show_icons=true&locale=en&theme=dark" alt="spspu" />
