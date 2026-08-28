@@ -59,17 +59,6 @@ I am a **Java Developer** focused on building scalable, maintainable, and effici
 
 ---
 
-### 🔗 Backend Development
-
-* **Core Java:** OOP, Collections, Exception Handling, Multithreading, Java 8+ Features
-* **Spring Ecosystem:** Spring Boot, Spring MVC, Spring Data JPA
-* **API Development:** RESTful Web Services, JSON, API Testing
-* **Persistence:** JPA, Hibernate, MySQL, MongoDB
-* **Architecture:** Layered Architecture, MVC, Microservices Fundamentals
-* **Build & Dependency Management:** Maven
-
----
-
 ### 💻 Frontend & Supporting Technologies
 
 <p align="left">
