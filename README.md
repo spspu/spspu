@@ -4,21 +4,22 @@
   <b>Java Developer | Spring Boot | REST APIs | Backend Development</b>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=spspu&label=Profile%20Views&color=0e75b6&style=flat" alt="spspu" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spspu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me
 
-I am a passionate **Java Developer** focused on building scalable, maintainable, and efficient backend applications using **Java, Spring Boot, REST APIs, JPA/Hibernate, and database technologies**.
+I am a **Java Developer** focused on building scalable, maintainable, and efficient backend applications using **Java, Spring Boot, REST APIs, JPA/Hibernate, and database technologies**.
 
 * 🔭 Currently seeking opportunities as a **Java Developer / Backend Developer**.
-* ☕ Strong interest in **Java and Spring Boot application development**.
-* 🚀 Experienced in developing **RESTful APIs and backend services**.
-* 🗄️ Working with both **SQL and NoSQL databases**.
-* 🔧 Familiar with **Git, Maven, and software development tools**.
+* ☕ Focused on **Java and Spring Boot application development**.
+* 🚀 Developing **RESTful APIs and backend services**.
+* 🗄️ Working with **relational and NoSQL databases**.
+* 🔧 Familiar with **Git, GitHub, Maven, Postman, and IntelliJ IDEA**.
+* 🧩 Exploring **Microservices and backend architecture**.
 * 🤯 Always eager to learn **new technologies and improve my development skills**.
 
 ---
@@ -29,10 +30,6 @@ I am a passionate **Java Developer** focused on building scalable, maintainable,
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/3d-fluency/1200/java-coffee-cup-logo.jpg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="Spring" width="40" height="40"/>
 </a>
 
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
@@ -47,18 +44,29 @@ I am a passionate **Java Developer** focused on building scalable, maintainable,
 <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="Maven" width="40" height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/1200/mongodb.jpg" alt="MongoDB" width="40" height="40"/>
-</a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/1200/mongodb.jpg" alt="MongoDB" width="40" height="40"/>
 </a>
 
 </p>
 
 **Core Focus:**
-`Java` • `Spring Boot` • `REST API` • `JPA` • `Hibernate` • `Maven` • `MySQL` • `MongoDB`
+`Java` • `Spring Boot` • `REST APIs` • `Spring Data JPA` • `Hibernate` • `Maven` • `MySQL` • `MongoDB`
+
+---
+
+### 🔗 Backend Development
+
+* **Core Java:** OOP, Collections, Exception Handling, Multithreading, Java 8+ Features
+* **Spring Ecosystem:** Spring Boot, Spring MVC, Spring Data JPA
+* **API Development:** RESTful Web Services, JSON, API Testing
+* **Persistence:** JPA, Hibernate, MySQL, MongoDB
+* **Architecture:** Layered Architecture, MVC, Microservices Fundamentals
+* **Build & Dependency Management:** Maven
 
 ---
 
@@ -70,11 +78,11 @@ I am a passionate **Java Developer** focused on building scalable, maintainable,
 <img src="https://spider-man-wiki.vercel.app/img/react.png" alt="React" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-logo-icon-svg-download-png-3030115.png" alt="HTML5" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/512/css3.png" alt="CSS3" width="40" height="40"/>
 </a>
 
@@ -87,6 +95,9 @@ I am a passionate **Java Developer** focused on building scalable, maintainable,
 </a>
 
 </p>
+
+**Supporting Skills:**
+`React` • `JavaScript` • `HTML5` • `CSS3` • `Python`
 
 ---
 
@@ -123,18 +134,14 @@ I am a passionate **Java Developer** focused on building scalable, maintainable,
   <img src="https://streak-stats.demolab.com/?user=spspu&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<!-- Add your GitHub stats/cards here -->
-
 ---
 
-
-
-<h3 align="left">📫 Connect With Me</h3>
+### 📫 Connect With Me
 
 <p align="left">
 
 <a href="mailto:surajpratapsingh179@gmail.com">
-<img src="https://img.shields.io/badge/Email-surajpratapsingh179@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-surajpratapsingh179%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
