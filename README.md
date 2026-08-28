@@ -1,44 +1,140 @@
 <h1 align="center">Suraj Pratap Singh</h1>
 
+<p align="center">
+  <b>Java Developer | Spring Boot | REST APIs | Backend Development</b>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spspu&label=Profile%20views&color=0e75b6&style=flat" alt="spspu" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=spspu&label=Profile%20Views&color=0e75b6&style=flat" alt="spspu" />
+</p>
 
-To seek and maintain full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.
-- 🔭 Currently, I am looking for Java Developer job.
-- 🤯 I’m always ready to learn **New Skills**.
-- 📫 How to reach me **surajpratapsingh2022@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">🌱Ongoing skills:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/3d-fluency/1200/java-coffee-cup-logo.jpg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="react" width="40" height="40"/> </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt="hibernate" width="40" height="40"/> </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://spider-man-wiki.vercel.app/img/react.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1200/mongodb.jpg" alt="mongodb" width="40" height="40"/> </a>
+I am a passionate **Java Developer** focused on building scalable, maintainable, and efficient backend applications using **Java, Spring Boot, REST APIs, JPA/Hibernate, and database technologies**.
+
+* 🔭 Currently seeking opportunities as a **Java Developer / Backend Developer**.
+* ☕ Strong interest in **Java and Spring Boot application development**.
+* 🚀 Experienced in developing **RESTful APIs and backend services**.
+* 🗄️ Working with both **SQL and NoSQL databases**.
+* 🔧 Familiar with **Git, Maven, and software development tools**.
+* 🤯 Always eager to learn **new technologies and improve my development skills**.
+
+---
+
+### 🌱 Current Tech Stack
+
+<p align="left">
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/3d-fluency/1200/java-coffee-cup-logo.jpg" alt="Java" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="Spring" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+</a>
+
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt="Hibernate" width="40" height="40"/>
+</a>
+
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/373829/maven.svg" alt="Maven" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/1200/mongodb.jpg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="40" height="40"/>
+</a>
 
 </p>
 
-<img align="right" width= "400" src="https://github-readme-streak-stats.herokuapp.com/?user=spspu" alt="spspu" />
+**Core Focus:**
+`Java` • `Spring Boot` • `REST API` • `JPA` • `Hibernate` • `Maven` • `MySQL` • `MongoDB`
 
+---
 
-<h3 align="left">🌴Reach on completion & Now, i try to make pro:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-programming.png" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547_640.png" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-logo-icon-svg-download-png-3030115.png" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/css3.png" alt="css3" width="40" height="40"/></a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="js" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/></a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.techasoft.com/debug/img/oracle.png" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="40" height="40"/> </a> 
+### 💻 Frontend & Supporting Technologies
+
+<p align="left">
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://spider-man-wiki.vercel.app/img/react.png" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-logo-icon-svg-download-png-3030115.png" alt="HTML5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/512/css3.png" alt="CSS3" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="40" height="40"/>
+</a>
+
 </p>
 
+---
+
+### 🛠️ Development Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="40" height="40"/>
+</a>
+
+</p>
+
+**Tools:**
+`Git` • `GitHub` • `Maven` • `Postman` • `IntelliJ IDEA`
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=spspu&theme=dark" alt="GitHub Streak"/>
+</p>
+
+<!-- Add your GitHub stats/cards here -->
+
+---
 
 
-<h3 align="left">🌳Pro in tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5440/5440062.png" alt="photoshop" width="40" height="40"/> </a> </p>
 
+<h3 align="left">📫 Connect With Me</h3>
+
+<p align="left">
+
+<a href="mailto:surajpratapsingh179@gmail.com">
+<img src="https://img.shields.io/badge/Email-surajpratapsingh179@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
